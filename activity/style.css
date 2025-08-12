@@ -1,0 +1,39 @@
+h1{
+    color:white;
+    text-align:right;
+    font-size:50px;
+    font-family:'Times New Roman', Times;
+}
+body{
+    background-color: blue;
+
+}
+.par1{
+    color:white;
+    font-family:'Times New Roman', Times;
+    font-size:20px;
+}
+.par2{
+    color:red;
+}
+.par3{
+    color:white;
+}
+.par4{
+    color:purple;
+}
+.par5{
+    color:white;
+}
+.par6{
+    color:white;
+}
+.par7{
+    color:white;
+}
+.par8{
+    color:red
+}
+.par9{
+    color:red;
+}

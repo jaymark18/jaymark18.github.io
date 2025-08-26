@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+.card{
+    border-radius: 10px;
+    padding: 10px;
+    width: 30%;
+    box-shadow: 11px 12px 13px 0px #888888;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 76%);
+
+}
+.card:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+h2, p{
+    margin: 0px;
+
+}
+.card-header{
+    display: flex;
+    border-bottom: 2px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.main{
+   display: flex;
+   gap: 20px;
+   
+} 
+p{
+    margin-bottom: 10px;
+}
+.btn{
+    border: none;
+    background-color: lightcoral;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+
+}
+.btn:hover{
+    cursor:pointer;
+    background: #020024; 
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(20, 121, 9, 1) 17%, rgba(0, 212, 255, 1) 100%);
+}

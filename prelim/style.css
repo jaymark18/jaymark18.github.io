@@ -1,0 +1,101 @@
+.main{
+    display: flex;
+    margin: width 100px;
+    background-color:black;
+    margin: 0px;
+    padding: 0px;
+   
+}
+.first{
+    display:flex;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: baseline;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.par1{
+    color: white;
+}
+.material-symbols-outlined{
+    color: white;
+}
+.btn1{
+    display:flex;
+    align-items: right;
+    background-color: black;
+    color: white;
+    
+}
+.btn1:hover{
+    cursor:pointer;
+    background: green;
+  
+    
+}
+.btn2{
+    display:flex;
+    align-items: right;
+    color:white;
+    background-color: black;
+    
+}
+.btn2:hover{
+    cursor:pointer;
+    background:green;
+    
+}
+.btn3{
+    display:flex;
+    color:white;
+    background-color: black;
+    
+}
+.btn3:hover{
+    cursor:pointer;
+    background:green;
+    
+}
+.btn4{
+    display:flex;
+    color:white;
+    background-color: black;
+    
+}
+.btn4:hover{
+    cursor:pointer;
+    background:green;
+    
+}
+.btn5{
+    display:flex;
+    color:white;
+    background-color: black;
+    
+}
+.btn5:hover{
+    cursor:pointer;
+    background:green;
+    
+}
+.par2{
+    text-align: center;
+    font-family:Tahoma;
+}
+.img{
+    margin: 0px;
+}
+.par3{
+    text-align: center;
+    font-family: Lucida Sans;
+}
+.card{
+    display: flex;
+    gap: 30px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-left: 120px;
+}
+
+

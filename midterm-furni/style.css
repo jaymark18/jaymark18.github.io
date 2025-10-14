@@ -1,0 +1,29 @@
+.header {
+  background-color: #3b5d50;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  color: white;
+  margin: 0;
+  margin-left: 3%;
+}
+
+.nav-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-buttons .btn {
+  color: white;
+  border: none;
+}
+
+.material-symbols-outlined {
+  color: white;
+  cursor: pointer;
+}
